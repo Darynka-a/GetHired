@@ -1,2 +1,2 @@
 # GetHired
-Cross-platform for application
+Cross-platform mobile application
